@@ -1,0 +1,34 @@
+{
+  "name": "eslint-plugin-yceffort",
+  "version": "0.0.0",
+  "description": "yceffort",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "yceffort",
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "prettier": "prettier . --write",
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  },
+  "devDependencies": {
+    "@titicaca/eslint-config-triple": "^5.0.0",
+    "@titicaca/prettier-config-triple": "^1.0.2",
+    "eslint": "^8.38.0",
+    "mocha": "^10.0.0"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.0.0 || >= 18.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+public/
+dist/
+
+.eslintrc.js
+.prettierrc
+.eslintignore
+.prettierignore

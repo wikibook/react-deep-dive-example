@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "react@17 application",
+  "dependencies": {
+    "react": "17.0.0",
+    "react-dom": "17.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "react@16 application",
+  "dependencies": {
+    "react": "16.8",
+    "react-dom": "16.8"
+  }
+}

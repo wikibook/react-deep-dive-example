@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --fix",
+    "prettier": "prettier . --write"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@titicaca/eslint-config-triple": "^5.0.0",
+    "@titicaca/prettier-config-triple": "^1.0.2",
+    "eslint": "^8.38.0",
+    "eslint-config-next": "13.1.6",
+    "prettier": "^2.8.7"
+  }
+}

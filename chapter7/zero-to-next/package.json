@@ -1,0 +1,33 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "lint": "eslint . --fix",
+    "prettier": "prettier . --write"
+  },
+  "author": "yceffort",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@titicaca/eslint-config-triple": "^5.0.0",
+    "@titicaca/prettier-config-triple": "^1.0.2",
+    "@types/node": "^18.8.5",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "@types/styled-components": "^5.1.26",
+    "eslint": "^8.38.0",
+    "prettier": "^2.8.7",
+    "eslint-config-next": "^12.3.1",
+    "typescript": "^4.8.4"
+  }
+}
