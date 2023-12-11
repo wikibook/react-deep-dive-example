@@ -10,15 +10,15 @@
 
 2장에서 다룬 리액트와 관련된 리액트 예제를 모아두었습니다.
 
-### chapter3 [📁](./chapter3)
+### chapter4 서버 사이드 렌더링 [📁](./chapter4)
 
-#### next-example [📁](./chapter3/next-example)
+#### ssr-example [📁](chapter4/ssr-example)
 
-3-3 장에서 다룬 nextjs 에 대한 예제 애플리케이션입니다.
+4-2 장에서 다룬 리액트 서버사이드 렌더링 api를 바탕으로 실제 리액트 api 를 기반으로 바닐라 서버사이드 렌더링 애플리케이션을 만든 예제 애플리케이션입니다.
 
-#### ssr-example [📁](./chapter3/ssr-example)
+#### next-example [📁](chapter4/next-example)
 
-3-2 장에서 다룬 리액트 서버사이드 렌더링 api를 바탕으로 실제 리액트 api 를 기반으로 바닐라 서버사이드 렌더링 애플리케이션을 만든 예제 애플리케이션입니다.
+4-3 장에서 다룬 nextjs 에 대한 예제 애플리케이션입니다.
 
 ### chapter6 [📁](./chapter6)
 
