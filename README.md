@@ -30,17 +30,17 @@
 
 6-2 장에서 다룬 리액트 테스트 코드관련 예제 코드를 모아두었습니다.
 
-### chapter7 [📁](./chapter7)
+### chapter9 모던 리액트 개발 도구로 개발 및 배포 환경 구축하기 [📁](./chapter9)
 
-#### danger-react-app [📁](./chapter7/danger-react-app)
+#### deploy [📁](chapter9/deploy)
 
-7-2장 에서 다룬 보안 취약점이 있는 리액트 애플리케이션을 수정한 예제 입니다. 주요 보안 이슈를 수정했지만 여전히 잠재적인 보안 취약점이 있을 수 있으므로 사용하는 것을 권장하지 않습니다.
+#### zero-to-next [📁](chapter9/zero-to-next)
 
-#### deploy [📁](./chapter7/deploy)
+9-1장 에서 다룬 빈 폴더에서 부터 nextjs 애플리케이션을 만들어본 예제입니다. 그리고 9-3 장에서 수행했던 배포를 여기에서 동일하게 재현하였습니다.
 
-#### zero-to-next [📁](./chapter7/zero-to-next)
+#### danger-react-app [📁](chapter9/danger-react-app)
 
-7-1장 에서 다룬 빈 폴더에서 부터 nextjs 애플리케이션을 만들어본 예제입니다.
+9-2장 에서 다룬 보안 취약점이 있는 리액트 애플리케이션을 수정한 예제 입니다. 주요 보안 이슈를 수정했지만 여전히 잠재적인 보안 취약점이 있을 수 있으므로 사용하는 것을 권장하지 않습니다.
 
 ### chapter10 리액트 17과 18의 변경사항 살펴보기 [📁](./chapter10)
 

@@ -1,4 +1,4 @@
-name: chapter7 build
+name: chapter9 build
 run-name: ${{ github. actor }} has been added new commit.
 
 on:
@@ -6,7 +6,7 @@ on:
     branches-ignore:
       - 'main'
     paths:
-      - ./chapter7/zero-to-next
+      - ./chapter9/zero-to-next
 
 jobs:
   build:
@@ -17,8 +17,8 @@ jobs:
         with:
           node-version: 16
       - name: 'install dependencies'
-        working-directory: ./chapter7/zero-to-next
+        working-directory: ./chapter9/zero-to-next
         run: npm ci
       - name: 'build'
-        working-directory: ./chapter7/zero-to-next
+        working-directory: ./chapter9/zero-to-next
         run: npm run build
