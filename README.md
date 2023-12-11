@@ -42,16 +42,20 @@
 
 7-1장 에서 다룬 빈 폴더에서 부터 nextjs 애플리케이션을 만들어본 예제입니다.
 
-### chapter8 [📁](./chapter8)
+### chapter10 리액트 17과 18의 변경사항 살펴보기 [📁](./chapter10)
 
-#### next13 [📁](./chapter8/next13)
+#### react-gradual-demo [📁](chapter10/react-gradual-demo)
 
-8-3 장에서 다룬 next@13 에서 베타로 제공 되고 있는 app directory 를 활용한 예제 애플리케이션입니다.
+10-1장 리액트 17의 변경에 대해서 다룬 내용 중 하나인 리액트의 점진적인 업데이트를 구현해본 예제 애플리케이션입니다.
 
-#### react-gradual-demo [📁](./chapter8/react-gradual-demo)
+### chapter11 Next.js13과 리액트 18 [📁](./chapter11)
 
-8-1장 리액트 17의 변경에 대해서 다룬 내용 중 하나인 리액트의 점진적이니 업데이트를 구현해본 예제 애플리케이션입니다.
+#### server-components-demo [📁](chapter11/server-components-demo)
 
-#### server-components-demo [📁](./chapter8/server-components-demo)
+11-2 장에서 소개한 서버 컴포넌트에 대한 예제 애플리케이션입니다. nextjs와 같은 프레임워크를 사용하지 않은 순수 리액트 서버 컴포넌트 예제 입니다.
 
-8-3 장에서 소개한 서버 컴포넌트에 대한 예제 애플리케이션입니다. nextjs와 같은 프레임워크를 사용하지 않은 순수 리액트 서버 컴포넌트 예제 입니다.
+#### next13 [📁](chapter11/next13)
+
+11-3 장에서 다룬 next@13 이상 버전에서 제공 되고 있는 app directory 를 활용한 예제 애플리케이션입니다.
+
+
