@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-### chapter2 [📁](./chapter2)
+### 2장 리액트 핵심 요소 깊게 살펴보기 [📁](./chapter2)
 
 #### react [📁](./chapter2/react)
 
