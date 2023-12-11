@@ -20,7 +20,7 @@
 
 4-3 장에서 다룬 nextjs 에 대한 예제 애플리케이션입니다.
 
-### chapter8 [📁](./chapter8)
+### chapter8 좋은 리액트 코드 작성을 위한 환경 구축하기 [📁](./chapter8)
 
 #### eslint-plugin-yceffort [📁](chapter8/eslint-plugin-yceffort)
 
